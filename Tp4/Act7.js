@@ -18,6 +18,8 @@ Crea un menú con opciones que serán seleccionadas por el usuario usando un pro
 las salidas de las operaciones seleccionadas por el usuario se pueden mostrar en pantalla y  por consola.
 */
 
+"use strict";
+
 class contacto {
     constructor(nombre, telefono){
         this.nombre = nombre;

@@ -9,6 +9,8 @@ auto encendido
 El auto se apagó
 */
 
+"use strict";
+
 const auto = {
     color: "",
     marca: "",

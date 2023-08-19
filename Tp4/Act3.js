@@ -4,6 +4,8 @@ con las propiedades de alto y ancho, mas los métodos necesarios para modificar 
 calcular el perímetro y el área
 */
 
+"use strict";
+
 class Rectangulo {
     constructor(ancho, alto){
         this.alto = alto;

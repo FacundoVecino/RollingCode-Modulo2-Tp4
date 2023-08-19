@@ -12,6 +12,8 @@ mostrarDatos: devuelve toda la información del objeto.
 generaDNI(): genera un número aleatorio de 8 cifras.
 */
 
+"use strict";
+
 class Persona {
     constructor(nombre, edad, DNI, sexo, peso, altura, añoNacimiento) {
       this.nombre = nombre;

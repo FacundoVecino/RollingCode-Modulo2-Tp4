@@ -11,6 +11,8 @@ Utiliza este objeto para mostrar la descripción, ingresar y extraer dinero y vo
 Rectángulos
 */
 
+"use strict";
+
 const cuenta = {
     titular: "Alex",
     saldo: 0,

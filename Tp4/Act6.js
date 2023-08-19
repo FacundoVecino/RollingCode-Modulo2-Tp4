@@ -14,6 +14,8 @@ Por último, indicar cuál de los 2 objetos “libros” tiene más páginas.
 
 */
 
+"use strict";
+
 class Libro {
     constructor(ISBN, Titulo, Autor, NumeroPaginas){
         this.ISBN = ISBN,
